@@ -1,4 +1,24 @@
 body{
-    color: rgb(0, 0, 0);
-    background: rgb(235, 114, 114);
+    color: rgb(255, 255, 255);
+    background: rgb(252, 1, 252);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color:white
+}
+
+section {
+    background: rgb(142, 214, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
